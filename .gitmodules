@@ -1,0 +1,12 @@
+[submodule "nest-hexagonal-todo"]
+	path = nest-hexagonal-todo
+	url = https://github.com/mangelini/nest-hexagonal-todo.git
+[submodule "django-todo"]
+	path = django-todo
+	url = https://github.com/mangelini/django-todo.git
+[submodule "loopback-todo"]
+	path = loopback-todo
+	url = https://github.com/mangelini/lb-todo.git
+[submodule "adonis-todo"]
+	path = adonis-todo
+	url = https://github.com/mangelini/adonis-todo.git
