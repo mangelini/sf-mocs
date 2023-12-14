@@ -10,3 +10,6 @@
 [submodule "adonis-todo"]
 	path = adonis-todo
 	url = https://github.com/mangelini/adonis-todo.git
+[submodule "beth-todo"]
+	path = beth-todo
+	url = https://github.com/mangelini/beth-todo
