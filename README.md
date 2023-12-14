@@ -5,6 +5,8 @@ All projects are using a RESTful approach, some provide also Swagger UI and Open
 
 <img src="./api_definitions.png" width="700">
 
-## Update submodules
+## Add submodules
+To add submodules to project: git submodule update --init --recursive
 
+## Update submodules
 To update all submodules to latest commit: git submodule update --remote
